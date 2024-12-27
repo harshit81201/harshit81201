@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ODOP**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 🌱 I’m currently learning **AI, ML and Deep Learning**
 
-- 👯 I’m looking to collaborate on **KrishiMitra**
+- 👯 I’m looking to collaborate on **Problem Solving**
 
 - 🤝 I’m looking for help with **ML engineer**
 
-- 💬 Ask me about **Python, Figma, HTML, CSS and JS**
+- 💬 Ask me about **Python, Flutter, Dart, Figma, HTML, CSS and JS**
 
 - 📫 How to reach me **harshit81201@gmail.com**
 
