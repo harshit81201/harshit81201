@@ -86,17 +86,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit81201&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit81201&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit81201&theme=radical"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Activity
