@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Full+Stack+Learner;Problem+Solver;Hackathon+Finalist;Aspiring+Entrepreneur&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Loading+Profile...;Flutter+Developer;React+Developer;Full+Stack+Learner;Product+Builder;Hackathon+Finalist&center=true&width=700&height=50">
 </p>
 
 <p align="center">
-  🚀 Building real-world applications | 📱 Flutter | ⚙️ FastAPI | 🧠 Learning AI & ML
+  🚀 Building real-world products | 📱 Flutter | ⚛️ React | ⚙️ FastAPI
 </p>
 
 <p align="center">
@@ -19,39 +23,70 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Graduate (2025) from **Chandigarh University**
-- 📱 Flutter Developer with hands-on project experience
-- ⚙️ Worked with **Flutter, FastAPI, Firebase, GetX**
+- 💻 **Flutter & React Developer** with live production experience
+- 🌐 Built and deployed **Study Vault (React-based live platform)**
+- ⚙️ Experience with **FastAPI, Firebase, REST APIs**
 - 🏆 Hackathon Finalist & Runner-up (Rajasthan Police Hackathon)
-- 🧩 Passionate about **problem solving, product building & startups**
-- 🌱 Currently learning **AI, ML & Deep Learning**
-- 🤝 Open to collaboration on impactful tech projects
+- 🧠 Strong interest in **product building, startups & scalable systems**
+- 🌱 Currently exploring **AI, ML & Deep Learning**
+- 🤝 Open to collaboration on real-world products
 
 📫 **Reach me at:** `harshit81201@gmail.com`
 
 ---
 
-## 🛠 Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## 🛠 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,firebase,git,github,html,css,js,figma,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,fastapi,firebase,git,github,html,css,figma,linux&perline=8" />
 </p>
+
+### Core Skills
+- Flutter App Development (MVVM, GetX)
+- **React.js Web Development**
+- REST API Integration
+- FastAPI Backend Development
+- Firebase Authentication & Firestore
+- UI/UX to Code (Figma → App/Web)
+- Product-first & scalable development
+- Deployment, debugging & production fixes
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📘 Study Vault (React-based Product)
+🌐 **Live Platform:** https://studyvault.co  
+
+- Built using **React.js**
+- Student-centric learning & resource platform
+- Clean, responsive and modern UI
+- Real users & live production environment
+- Focused on usability, performance & scalability
+- Strong hands-on experience with **React component design**
+
+---
+
 ### 📦 Inventro – Inventory Management System
-- Flutter-based frontend with FastAPI backend
-- Admin-first registration & employee management
+- Flutter frontend with FastAPI backend
+- Admin-first onboarding & employee management
 - Role-based authentication
 - Inventory search and tracking
 - Backend hosted on Railway
 
+---
+
 ### 📝 ToDoList Application
 - Flutter + GetX (MVVM Architecture)
 - Task creation with reminders
-- Clean Material UI design
-- Local notifications support
+- Clean Material UI
+- Local notification support
+
+---
 
 ### 📅 Meeting Scheduling Application
 - Admin and User roles
@@ -61,17 +96,34 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit81201&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=harshit81201&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit81201&layout=compact&theme=radical&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit81201&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=harshit81201&theme=radical&cache_seconds=1800" 
+  />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## 🌐 Connect With Me
 
@@ -88,7 +140,7 @@
 
 ## ✨ Quote I Believe In
 
-> *"Consistency beats talent when talent doesn't stay consistent."*
+> *"Build products. Skills will follow. Opportunities will chase you."*
 
 ---
 
