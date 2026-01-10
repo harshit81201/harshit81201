@@ -101,9 +101,9 @@
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshit81201/harshit81201/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 ---
 
