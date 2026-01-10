@@ -41,7 +41,7 @@
 - React.js Web Development
 - REST API Integration
 - FastAPI Backend Development
-- Firebase Auth & Firestore
+- Firebase Authentication & Firestore
 - UI/UX from Figma to Code
 - Product-first development mindset
 
@@ -49,11 +49,11 @@
 
 ## 🚀 Featured Projects
 
-### 📘 Study Vault (React)
+### 📘 Study Vault (React-based Product)
 🌐 **Live:** https://studyvault.co  
 
 - Built with **React.js**
-- Student-focused study resources platform
+- Student-focused learning & resource platform
 - Clean, responsive UI
 - Live production users
 - Hands-on experience with real-world React architecture
@@ -98,6 +98,18 @@
 </p>
 
 ---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ## 🌐 Connect With Me
 
